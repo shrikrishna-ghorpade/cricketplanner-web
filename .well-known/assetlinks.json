@@ -7,7 +7,8 @@
       "namespace": "android_app",
       "package_name": "com.runneeti.cricketfieldplanner",
       "sha256_cert_fingerprints": [
-        "C2:5A:9B:3C:A0:AC:33:AE:62:80:7D:93:28:9E:D2:55:F4:47:E4:FD:05:A8:78:44:33:13:37:FD:EB:A0:FE:E7"
+        "C2:5A:9B:3C:A0:AC:33:AE:62:80:7D:93:28:9E:D2:55:F4:47:E4:FD:05:A8:78:44:33:13:37:FD:EB:A0:FE:E7",
+        "67:13:03:36:F3:8D:E5:58:F1:AF:B5:54:B3:F0:38:0B:21:42:31:87:3A:59:25:8D:11:36:61:62:84:D8:06:47"
       ]
     }
   }
